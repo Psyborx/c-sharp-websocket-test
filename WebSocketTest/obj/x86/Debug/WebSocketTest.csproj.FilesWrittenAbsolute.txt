@@ -1,0 +1,12 @@
+/Extra/repos/webSocketTest/WebSocketTest/WebSocketTest/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Extra/repos/webSocketTest/WebSocketTest/WebSocketTest/bin/Debug/WebSocketTest.exe.mdb
+/Extra/repos/webSocketTest/WebSocketTest/WebSocketTest/bin/Debug/WebSocketTest.exe
+/Extra/repos/webSocketTest/WebSocketTest/WebSocketTest/obj/x86/Debug/WebSocketTest.exe
+/Extra/repos/webSocketTest/WebSocketTest/WebSocketTest/obj/x86/Debug/WebSocketTest.exe.mdb
+/Extra/repos/webSocketTest/WebSocketTest/WebSocketTest/bin/Debug/log4net.dll
+/Extra/repos/webSocketTest/WebSocketTest/WebSocketTest/bin/Debug/Newtonsoft.Json.dll
+/Extra/repos/webSocketTest/WebSocketTest/WebSocketTest/bin/Debug/SuperSocket.Common.dll
+/Extra/repos/webSocketTest/WebSocketTest/WebSocketTest/bin/Debug/SuperSocket.Facility.dll
+/Extra/repos/webSocketTest/WebSocketTest/WebSocketTest/bin/Debug/SuperSocket.SocketBase.dll
+/Extra/repos/webSocketTest/WebSocketTest/WebSocketTest/bin/Debug/SuperSocket.SocketEngine.dll
+/Extra/repos/webSocketTest/WebSocketTest/WebSocketTest/bin/Debug/SuperWebSocket.dll

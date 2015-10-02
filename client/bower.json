@@ -1,0 +1,10 @@
+{
+  "name": "websockets-test",
+  "version": "1.0.0",
+  "moduleName": "websockets-test",
+  "dependencies": {
+    "modernizr": "components-modernizr#~2.8.3",
+    "jquery": "~2.1.4",
+    "reconnectingWebsocket": "~1.0.0"
+  }
+}
